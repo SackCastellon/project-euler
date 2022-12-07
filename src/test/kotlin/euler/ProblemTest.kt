@@ -7,6 +7,7 @@ import org.junit.jupiter.api.TestFactory
 internal class ProblemTest {
     private val testCases: List<TestCase<*>> = listOf(
         TestCase(Problem1, answer = 233168),
+        TestCase(Problem2, answer = 4613732),
     )
 
     @TestFactory
