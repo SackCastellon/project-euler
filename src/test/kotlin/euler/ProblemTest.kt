@@ -21,6 +21,7 @@ internal class ProblemTest {
         TestCase(Problem16, answer = 1366),
         TestCase(Problem20, answer = 648),
         TestCase(Problem21, answer = 31626),
+        TestCase(Problem22, answer = 871198282),
     )
 
     @TestFactory
