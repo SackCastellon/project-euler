@@ -1,6 +1,5 @@
 package euler
 
-
 /**
  * [#10 Summation of Primes - Project Euler](https://projecteuler.net/problem=10)
  */

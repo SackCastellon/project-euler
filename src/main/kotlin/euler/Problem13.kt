@@ -2,7 +2,6 @@ package euler
 
 import java.math.BigInteger
 
-
 /**
  * [#13 Large Sum - Project Euler](https://projecteuler.net/problem=13)
  */
