@@ -30,7 +30,7 @@ internal class ProblemTest {
 
     @TestFactory
     @DisplayName("Project Euler")
-    internal fun problems(): Iterable<DynamicNode> = testCases.map { testCase ->
+    internal fun projectEuler(): Iterable<DynamicNode> = testCases.map { testCase ->
         dynamicTest("Problem ${testCase.number}", testCase::test)
     }
 }
